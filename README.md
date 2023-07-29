@@ -7,12 +7,12 @@
 
 ### Splash Screen
 
-![Splash Screen](https://github.com/sagarjha07/SocialPal/blob/master/assets/images/homepage.png)
+![Splash Screen](https://github.com/sagarjha07/SocialChat/blob/master/src/assets/Splash.png.png)
 
 ### Signup Screen
 
-![Signup Screen](https://github.com/sagarjha07/SocialPal/blob/master/assets/images/signup_page.png)
+![Signup Screen](https://github.com/sagarjha07/SocialChat/blob/master/src/assets/Signup.png.png)
 
 ### Login Screen
 
-![Login Screen](https://github.com/sagarjha07/SocialPal/blob/master/assets/images/login_page.png)
+![Login Screen](https://github.com/sagarjha07/SocialChat/blob/master/src/assets/Login.png.png)
