@@ -1,4 +1,4 @@
-# SOCIALCHAT (SOCIAL CHAT APP)
+# AUTHNATIVE
 
 ## A Social Chat App where user can:
 
