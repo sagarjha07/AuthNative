@@ -1,6 +1,6 @@
 # AUTHNATIVE
 
-### A complete authetication app where user can:
+## A complete authetication app where user can:
 
 - Login/Logout/Signup using Firebase
 - Splash screen
